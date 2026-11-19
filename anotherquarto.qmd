@@ -1,0 +1,10 @@
+---
+title: "Natalia Kay Another Quarto Document"
+author: "Natalia Kay"
+format: html
+editor: visual
+---
+
+# Attempt number 2
+
+This is my new Quarto document linking to my home page
