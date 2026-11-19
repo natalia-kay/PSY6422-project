@@ -1,0 +1,17 @@
+---
+title: "Natalia Kay Psy6422 Project"
+author: "Natalia Kay"
+format: html
+editor: visual
+---
+
+# Overview
+
+Overview of this project
+
+# Adding Code
+
+```{r}
+data(mtcars)
+plot(mtcars$hp, mtcars$mpg)
+```
